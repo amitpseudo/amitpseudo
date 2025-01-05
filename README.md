@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/​https://www.linkedin.com/ in/amit-kumar-8aa94b22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="​https://www.linkedin.com/ in/amit-kumar-8aa94b22a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amitkumar6200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="​https://www.linkedin.com/ in/amit-kumar-8aa94b22a" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/amit6200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.codingninjas.com/studio/profile/amit6200" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amitbshqev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/amitbshqev1" height="30" width="40" /></a>
 </p>
